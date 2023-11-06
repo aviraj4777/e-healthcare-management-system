@@ -15,8 +15,9 @@ const Footer =()=>{
             <div className="col-xs-6 col-md-3">
               <h6>Developers</h6>
               <ul className="footerlinks">
-                <li><a href="https://github.com/prince-panwar">Prince Panwar</a></li>
-                <li><a href="https://github.com/RupeshMangalam21">Rupesh Mangalam</a></li>
+                <li><a href="https://github.com/">Aman Raj</a></li>
+                <li><a href="https://github.com/aviraj4777">Aviraj Kumar</a></li>
+                <li><a href="https://github.com/RupeshMangalam21">Shivam Raj</a></li>
       
               </ul>
             </div>
